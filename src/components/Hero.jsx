@@ -101,7 +101,7 @@ useGSAP(() => {
           </div>
           <div className="view-mocktails">
             <p className="subtitle">
-              Every cocktail on our menu is a
+              Every mocktail on our menu is a
               blend of premium ingredients,
               creative flair, and timeless recipes
               — designed to delight your senses.

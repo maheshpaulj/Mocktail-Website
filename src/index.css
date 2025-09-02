@@ -251,7 +251,7 @@ body {
             @apply flex md:flex-row flex-col justify-between md:mb-16 md:mt-0 mt-40 gap-10;
         }
 
-        .cocktail-img {
+        .mocktail-img {
             @apply md:w-[60vw] w-full h-[50vh] md:h-[70vh] rounded-4xl overflow-hidden absolute top-0 md:top-1/2 md:-translate-y-1/2 left-1/2 -translate-x-1/2;
         }
 
@@ -285,7 +285,7 @@ body {
             @apply object-contain absolute -top-40 right-0 md:w-fit w-1/4;
         }
 
-        .cocktail-tabs {
+        .mocktail-tabs {
             @apply grid md:grid-cols-4 grid-cols-2 md:gap-20 gap-10 sm:mb-32 mb-20 relative z-10 md:max-w-6xl md:mx-auto;
 
             button {
@@ -309,7 +309,7 @@ body {
             }
         }
 
-        .cocktail {
+        .mocktail {
             @apply flex-center mt-10;
 
             img {
