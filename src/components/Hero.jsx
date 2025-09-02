@@ -49,7 +49,6 @@ useGSAP(() => {
 
   gsap.from(videoRef.current, {
     opacity: 0,
-    yPercent: 2,
     duration: 2,
     ease: "power2.out",
     delay: 0.5,
